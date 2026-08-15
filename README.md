@@ -3,7 +3,7 @@
   <br><br>
 </div>
 
-# ⚡ AETERNA ECO-TRANSMUTER
+# AETERNA ECO-TRANSMUTER
 ### In-Flight Zero-Downtime Enterprise Green-Compute & Decarbonization Engine
 
 [![License](https://img.shields.io/badge/License-Proprietary%20AETERNA-blue.svg)](#)
@@ -13,7 +13,7 @@
 
 ---
 
-## ⚡ Executive Summary
+## Executive Summary
 
 **AETERNA ECO-TRANSMUTER** is a non-invasive, zero-downtime sidecar engine designed to solve the **$130 Billion Data Center Energy Crisis**. 
 
@@ -36,7 +36,7 @@ Modern enterprise backends (Java, Python, Node, legacy SQL) suffer from severe m
 
 ---
 
-## 📊 Physical Hardware Verification (50,000,000 Data Operations)
+## Empirical Hardware Verification (50,000,000 Data Operations)
 
 All benchmarks measured directly on bare-metal silicon (*AMD Ryzen 7000 Series / 16 Threads / 24GB RAM*):
 
@@ -50,7 +50,7 @@ All benchmarks measured directly on bare-metal silicon (*AMD Ryzen 7000 Series /
 
 ---
 
-## 🌍 Key Enterprise & ESG Capabilities
+## Key Enterprise & ESG Capabilities
 
 * **Zero-Code Touch:** Integrates as a transparent sidecar / runtime hook. Zero refactoring of existing enterprise microservices.
 * **Instant Carbon Credit ROI:** Generates verifiable cryptographically signed ESG telemetry certificates for Scope 2 / Scope 3 carbon audit compliance.
@@ -59,7 +59,7 @@ All benchmarks measured directly on bare-metal silicon (*AMD Ryzen 7000 Series /
 
 ---
 
-## 🚀 Live Interactive Telemetry Dashboard
+## Interactive Telemetry Dashboard
 
 The repository includes a production-grade single-page HUD dashboard (`index.html`) demonstrating:
 1. **Live Engine Switcher:** Toggle in real-time between Legacy and Transmuted runtime modes.
@@ -74,7 +74,7 @@ python -m http.server 8080
 
 ---
 
-## 🏛️ Institutional & Portfolio Context
+## Institutional & Portfolio Context
 
 * **Coordinator:** Dimitar Stavrev Prodromov (AETERNA, Pomorie, Bulgaria / PIC: 865986222)
 * **Strategic Portfolio:** €52,047,219 across European Defence Fund (EDF), Connecting Europe Facility (CEF Digital), and Horizon Europe.
