@@ -112,7 +112,7 @@ AETERNA-QKD directly operationalizes the **EU Cybersecurity Strategy**, **Quantu
 3. **Decarbonized Green Quantum Computing:** Incorporates AETERNA's Zero-Entropy runtime acceleration, reducing cooling and optical transponder power consumption by **80%** relative to legacy cryogenic-dependent quantum systems.
 
 ## 2.2 Exploitation, Standardization & Open Science
-* **Open Science & B2B Ecosystem:** Core components of the AETERNA-EKO hybrid ecosystem (HUD interfaces, marketing, and non-sensitive system integrations) are published as Open Source at **[AETERNA-EKO Public Repository](https://github.com/papica777-eng/AETERNA-EKO)** to drive European B2B integration.
+* **Public Telemetry & Open Science Gateway:** Public telemetry layers, interactive benchmark dashboards, and open ETSI interface definitions are openly accessible via the **[AETERNA-EKO Repository](https://github.com/papica777-eng/AETERNA-EKO)** and the live interactive demonstration portal at **[AETERNA-EKO Live Portal](https://papica777-eng.github.io/AETERNA-EKO/)** in full compliance with Horizon Europe Open Science mandates.
 * **ETSI Standardization:** Direct contributions to ETSI ISG-QKD (interfaces 004, 014, 015) and ITU-T Study Group 17.
 * **Commercialization Pathway:** AETERNA, LMU, BSC, and GRNET will license certified QKD transceivers to European telecom operators (A1, Vivacom, OTE, Telefonica) with a projected **€120M addressable EU market by 2030**.
 
