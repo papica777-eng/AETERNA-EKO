@@ -59,6 +59,17 @@ All benchmarks measured directly on bare-metal silicon (*AMD Ryzen 7000 Series /
 
 ---
 
+## Sovereign High-Density Kernel (Mojo)
+
+The repository incorporates a native **Modular Mojo** bare-metal demonstration kernel (`aeterna_transmuter_engine.mojo`), executing SIMD AVX-512 hardware vectorization and zero-entropy validation:
+
+```bash
+# Execute native Mojo acceleration benchmark
+mojo aeterna_transmuter_engine.mojo
+```
+
+---
+
 ## Interactive Telemetry Dashboard
 
 The repository includes a production-grade single-page HUD dashboard (`index.html`) demonstrating:
@@ -66,10 +77,10 @@ The repository includes a production-grade single-page HUD dashboard (`index.htm
 2. **Stress & Burst Simulator:** Dynamically test 10M to 100M tensor workloads.
 3. **ESG ROI Calculator:** Enter enterprise server fleet numbers to instantly calculate annual MWh, metric tons of CO₂, and cost savings.
 
-To launch locally:
+To launch HUD locally:
 ```bash
-python -m http.server 8080
-# Open http://localhost:8080 in your browser
+# Open directly in browser or serve locally
+start index.html
 ```
 
 ---
