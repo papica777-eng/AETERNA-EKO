@@ -1,0 +1,27 @@
+AETERNA SOVEREIGN COMMERCIAL & ENTERPRISE EVALUATION LICENSE
+Version 1.0 — August 2026
+
+Copyright (c) 2026 Dimitar Stavrev Prodromov / AETERNA High-Tech Consortium.
+All Rights Reserved.
+
+1. PERMITTED USE (EVALUATION & DEMONSTRATION)
+Permission is hereby granted to any individual or enterprise entity to view, evaluate, and benchmark the demonstration software, documentation, whitepapers, and interactive telemetry dashboards contained in this repository strictly for non-commercial evaluation, research, and audit purposes.
+
+2. PROPRIETARY TECHNOLOGY & RESTRICTIONS
+The core compilation mechanics, SIMD tensor kernels, zero-entropy state transformations, and mathematical runtime algorithms of AETERNA ECO-TRANSMUTER constitute proprietary trade secrets of Dimitar Stavrev Prodromov / AETERNA.
+
+Except as expressly authorized under a separate bilateral Commercial Enterprise Agreement:
+- You may NOT reverse-engineer, decompile, disassemble, or extract the underlying proprietary kernel modules.
+- You may NOT deploy, sublicense, sell, or commercially operate the software in a production cloud, banking, telecommunications, or clinical environment without an official Commercial License Key signed by the Architect.
+- You may NOT remove or alter any copyright notices, trademark attributions, or patent declarations.
+
+3. COMMERCIAL & ENTERPRISE LICENSING
+For production deployment, enterprise sidecar integration, ESG carbon credit certification, and high-throughput data center installations, an official Enterprise Commercial License is required.
+
+Inquiries & Licensing Contact:
+Coordinator: Dimitar Stavrev Prodromov
+AETERNA High-Tech Consortium (Pomorie, Bulgaria / PIC: 865986222)
+Official EU Portfolio: €52,047,219 (EDF, CEF Digital, Horizon Europe)
+
+4. DISCLAIMER OF WARRANTY
+THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE DEMONSTRATION SOFTWARE.
