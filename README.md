@@ -1,4 +1,9 @@
-# AETERNA ECO-TRANSMUTER
+<div align="center">
+  <img src="assets/aeterna_eco_transmuter_poster.jpg" alt="AETERNA ECO-TRANSMUTER Hardware Decarbonization Breakthrough" width="100%" style="border-radius: 12px; box-shadow: 0 10px 40px rgba(0,240,255,0.3);">
+  <br><br>
+</div>
+
+# ⚡ AETERNA ECO-TRANSMUTER
 ### In-Flight Zero-Downtime Enterprise Green-Compute & Decarbonization Engine
 
 [![License](https://img.shields.io/badge/License-Proprietary%20AETERNA-blue.svg)](#)
